@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SecondGame/Menu/Menu.unity
+    guid: 010d5a751de4442458600946f223c137
+  - enabled: 1
+    path: Assets/Scenes/SecondGame/Menu/Group.unity
+    guid: 6afbf167224f876468605e58b4b54cd4
+  - enabled: 1
+    path: Assets/Scenes/FirstGame/TheBeginning.unity
+    guid: 9f0fc46e63fe93847ba99064e3cbe5f0
+  - enabled: 1
+    path: Assets/Scenes/SecondGame/SecondGame.unity
+    guid: 131f9b0534c518344b5b6d365d536dd3
+  - enabled: 1
+    path: Assets/Scenes/SecondGame/SecondGame2.unity
+    guid: f400865536fdb2d4889f590570197bbb
+  - enabled: 1
+    path: Assets/Scenes/SecondGame/SecondGame3.unity
+    guid: ed8ff40629e2f0a49a017eb1a1948ca6
+  - enabled: 1
+    path: Assets/Scenes/SecondGame/Home2.unity
+    guid: 5bf5666a01024404f99532ea712815be
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/ThirdDialog.unity
+    guid: f72c9f9caaab2544a8b5deeb3d35dc9a
+  - enabled: 1
+    path: Assets/Scenes/Animation.unity
+    guid: 69c0d2c0b86bd2148845a3ec5251786e
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/ThirdGame.unity
+    guid: 4e5b32d7f5cdb1f44a834a00908fbcda
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/ThirdGame2.unity
+    guid: a66d9a6f9b624914f872dfce16f8c061
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/ThirdGame3.unity
+    guid: 58b8d132a3186df4a9a3b961739c40f3
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/ThirdGame4.unity
+    guid: fa16a2680efa0af4995cc70632e0e4ea
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/ThirdGame5.unity
+    guid: 27ea97f7698fcc04e9a471b715f06910
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/Home3.unity
+    guid: 53c3efd1c236bdd42964b77ee4decd5e
+  - enabled: 1
+    path: Assets/Scenes/ThirdGame/Home4.unity
+    guid: a5584980b98bb36459f7f55103418674
+  - enabled: 1
+    path: Assets/Scenes/FinalAnimation.unity
+    guid: 57b34ff7e23596e43b6a0a77d1e165a6
+  - enabled: 1
+    path: Assets/Scenes/SecondGame/Home2_2.unity
+    guid: 434868f8934de0b4a9fee0df134030a8
+  - enabled: 1
+    path: Assets/Scenes/FirstGame/FirstGame.unity
+    guid: 384b7cc4326c3e24f825d101206e6922
+  - enabled: 1
+    path: Assets/Scenes/FirstGame/FirstGameVideo.unity
+    guid: b4aff893102745d4b88b900f97ca05f8
+  - enabled: 1
+    path: Assets/Scenes/FirstGame/Home1.unity
+    guid: 7664cbeab14ba5a45839c1bcd23fb4e4
+  - enabled: 1
+    path: Assets/Scenes/Animation2.unity
+    guid: 5e28eac60dc24eb4da9adfdef780f524
+  m_configObjects: {}
